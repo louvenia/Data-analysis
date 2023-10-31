@@ -1,0 +1,15 @@
+priluruv,dariobla,2
+dariobla,badaluda,1
+dariobla,priluruv,1
+kaprahut,ingrikus,2
+badaluda,priluruv,3
+kaprahut,dariobla,2
+ingrikus,badaluda,1
+badaluda,ingrikus,1
+priluruv,kaprahut,1
+priluruv,badaluda,3
+ingrikus,kaprahut,1
+kaprahut,priluruv,3
+dariobla,ingrikus,1
+ingrikus,dariobla,3
+dariobla,kaprahut,1
